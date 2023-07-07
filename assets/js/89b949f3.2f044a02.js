@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchenbobby_com=self.webpackChunkchenbobby_com||[]).push([[7205],{125:e=>{e.exports=JSON.parse('{"permalink":"/chenbobby.com/projects","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
