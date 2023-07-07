@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchenbobby_com=self.webpackChunkchenbobby_com||[]).push([[3555],{808:e=>{e.exports=JSON.parse('{"permalink":"/chenbobby.com/projects/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

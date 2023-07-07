@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchenbobby_com=self.webpackChunkchenbobby_com||[]).push([[8429],{7950:b=>{b.exports=JSON.parse('{"label":"hello","permalink":"/chenbobby.com/blog/tags/hello","allTagsPath":"/chenbobby.com/blog/tags","count":2}')}}]);
